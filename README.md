@@ -1,4 +1,6 @@
+
 🧠 Quiz Application 🎉
+https://dylankalisa.github.io/Quiz-APP/
 A minimalistic and modern quiz application built with HTML, CSS, and JavaScript. Test your knowledge, track your scores, and enjoy a smooth, interactive experience! 🚀
 
 🌟 Features
